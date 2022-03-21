@@ -7,3 +7,4 @@ function positiveSum(arr) {
   }
   return result;
 }
+// summ positive numbers //
